@@ -5,7 +5,7 @@ MariBelajar Capstone Project
 
 A Capstone Project developed during the **Certified Independent Study Program (MSIB Batch 6) 2024** at **PT MariBelajar Indonesia Cerdas**.
 
-This project analyzes public sentiment toward the **Kampus Mengajar Program** using Twitter data. The system applies **Natural Language Processing (NLP)** techniques and a **TensorFlow** classification model to classify tweets into **Positive**, **Neutral**, and **Negative** sentiments. The results are presented through an interactive **Power BI Dashboard**, This project was completed over a period of 6 months.
+This project analyzes public sentiment toward the **Kampus Mengajar Program** using Twitter data. The system applies **Natural Language Processing (NLP)** techniques and a **TensorFlow** classification model to classify tweets into **Positive**, **Neutral**, and **Negative** sentiments. The results are presented through an interactive **Power BI Dashboard**, **This project was carried out over a period of 6 months, from January through the end of June**.
 
 ---
 
