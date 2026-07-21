@@ -191,25 +191,25 @@ MariBelajar-Capstone-main
 
 ## Home
 
-![Home](assets/dashboard_home.png)
+![Home](image/image 1.png)
 
 ---
 
 ## Sentiment Dashboard
 
-![Sentiment Dashboard](assets/dashboard_sentiment.png)
+![Sentiment Dashboard](image/image 2.png)
 
 ---
 
 ## Word Cloud Dashboard
 
-![Word Cloud](assets/dashboard_wordcloud.png)
+![Word Cloud](image/image 3.png)
 
 ---
 
 ## Detail Dashboard
 
-![Detail Dashboard](assets/dashboard_detail.png)
+![Detail Dashboard](image/image 4.png)
 
 ---
 
