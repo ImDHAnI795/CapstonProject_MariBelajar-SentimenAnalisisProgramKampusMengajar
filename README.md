@@ -3,7 +3,7 @@ MariBelajar Capstone Project
 
 # 📊 Sentiment Analysis of the Kampus Mengajar Program
 
-A Capstone Project developed during the **Certified Independent Study Program (MSIB Batch 6)** at **PT MariBelajar Indonesia Cerdas**.
+A Capstone Project developed during the **Certified Independent Study Program (MSIB Batch 6) 2024** at **PT MariBelajar Indonesia Cerdas**.
 
 This project analyzes public sentiment toward the **Kampus Mengajar Program** using Twitter data. The system applies **Natural Language Processing (NLP)** techniques and a **TensorFlow** classification model to classify tweets into **Positive**, **Neutral**, and **Negative** sentiments. The results are presented through an interactive **Power BI Dashboard**.
 
